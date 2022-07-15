@@ -1,0 +1,23 @@
+{
+  "name": "crud-node-mongo",
+  "version": "1.0.0",
+  "description": "Crud Creado con node, express y mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarocs92/crud-node-mongo.git"
+  },
+  "author": "Alvaro Contreras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvarocs92/crud-node-mongo/issues"
+  },
+  "homepage": "https://github.com/alvarocs92/crud-node-mongo#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4"
+  }
+}
